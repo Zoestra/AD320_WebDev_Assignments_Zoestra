@@ -8,3 +8,9 @@
 	path = week4/ad320labcomponentsandprops-Zoestra
 	url = https://github.com/AD320-North-Seattle/ad320labcomponentsandprops-Zoestra
 
+[submodule "week6/ad320learingpracticeevents-Zoestra"]
+	path = week6/ad320learingpracticeevents-Zoestra
+	url = https://github.com/AD320-North-Seattle/ad320learingpracticeevents-Zoestra
+[submodule "week6/ad320learingpracticestates-Zoestra"]
+	path = week6/ad320learingpracticestates-Zoestra
+	url = https://github.com/AD320-North-Seattle/ad320learingpracticestates-Zoestra
